@@ -5,6 +5,7 @@
       - git
       - htop
       - ipcalc
+      - iperf3
       - ipython3
       - mc
       - ncdu
