@@ -5,7 +5,7 @@ This project is meant for offline/online configuration management for Linux syst
 The requirements for the client is for ansible to be installed.  Although git is unilized as the central repository for this code, the ansible-pull executable is the only binary needed to kick of this method management.
 #### Installation
 To get started, 
-1. Install anible on the client, 
+1. Install ansible on the client, 
 2. Make sure it has Internet access, 
 3. Run the following command as root (or sudo):
 ```bash
