@@ -17,5 +17,6 @@
       - tcpdump
       - tmux
       - traceroute
+      - tree
       - vpnc
       - zsh
