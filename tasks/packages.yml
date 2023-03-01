@@ -11,6 +11,7 @@
       - ncdu
       - neofetch
       - net-tools
+      - nmap
       - openssh-server
       - python3-pip
       - ranger
