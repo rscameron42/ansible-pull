@@ -10,3 +10,11 @@
     owner: root
     group: root
     mode: 0440
+    
+- name: copy sudoers_ron
+  copy:
+    src: files/sudoers_ron
+    dest: /etc/sudoers.d/ron
+    owner: root
+    group: root
+    mode: 0440
