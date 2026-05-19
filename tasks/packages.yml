@@ -9,7 +9,7 @@
       - ipython3
       - mc
       - ncdu
-      - neofetch
+      - fastfetch
       - net-tools
       - nmap
       - openssh-server
