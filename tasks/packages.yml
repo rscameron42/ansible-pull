@@ -1,6 +1,7 @@
 - name: install packages
   apt: 
     name: 
+      - btop
       - curl
       - git
       - htop
